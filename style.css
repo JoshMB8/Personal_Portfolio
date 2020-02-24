@@ -103,6 +103,7 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  padding: 10rem 2rem;
 }
 
 .welcome-section > p {
@@ -111,11 +112,6 @@ a {
   font-style: italic;
   color: #B0C4DE;
   text-align: center;
-}
-
-.logo-img {
-  width: 10%;
-  margin-bottom: 5%;
 }
 
 .profile-pic {
@@ -207,14 +203,13 @@ a {
   jusitfy-content: center;
   align-items: center;
   width: 100%;
-  height: auto;
-  padding: 0 2rem;
+  padding: 10rem 2rem;
   background: #2F4F4F;
 }
 
 .skills-section-header {
   max-width: 640px;
-  margin: 4rem auto 0 auto;
+  
   border-bottom: 0.2rem solid #FFFFFF;
 }
 
@@ -265,7 +260,7 @@ a {
   text-align: center;
   width: 100%;
   height: 80vh;
-  padding: 0 2rem;
+  padding: 10rem 2rem;
   background: #303841;
 }
 
